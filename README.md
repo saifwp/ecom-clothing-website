@@ -1,6 +1,3 @@
-# ecom-clothing-website  
-A custom-built **WordPress eCommerce website** designed for a modern clothing brand. The platform delivers a sleek, user-friendly shopping experience with **product listings**, **secure checkout**, and a fully **responsive, SEO-optimized design**.
-
 # 🛒 eCommerce Clothing Website – [Live Website](https://outdoor-ing.creator-spring.com/)
 
 ---
@@ -49,10 +46,10 @@ Built with a **mobile-first** approach and a strong focus on **performance and d
 ---
 
 ## 📌 Project Impact  
-- ✅ Increased product visibility with SEO integration  
-- ✅ Streamlined shopping experience from browse to checkout  
-- ✅ Scalable platform ready for future product expansions  
-- ✅ Professional brand presence across devices
+- Increased product visibility with SEO integration  
+- Streamlined shopping experience from browse to checkout  
+- Scalable platform ready for future product expansions  
+- Professional brand presence across devices
 
 ---
 
